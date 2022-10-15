@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2>
+    E ai, tudo bem? Eu sou Junior Martins!! 👊🏾
+</h2>
 
-<!--
-**jrmartinsg/jrmartinsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jrmartinsg/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovane-martins-85b5b3248/)
 
-Here are some ideas to get you started:
+![Anurag's GitHub
+stats](https://github-readme-stats.vercel.app/api?username=jrmartinsg&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline-block"><br>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+        alt="javascript">
+</div>
+
+<h5>
+    " É a insatisfação que nos move " - Mario Sergio Cortella.
+</h5>
