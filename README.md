@@ -13,7 +13,9 @@ stats](https://github-readme-stats.vercel.app/api?username=jrmartinsg&show_icons
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
         alt="javascript">
-</div>
+</div><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrmartinsg&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4>
     " É a insatisfação que nos move " - Mario Sergio Cortella.
