@@ -1,5 +1,5 @@
 <h2>
-    E ai, tudo bem? Eu sou Junior Martins!! 👊🏾
+    E ai, tudo bem? Eu sou Geovane 'Junior' Martins!! 👊🏾
 </h2>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jrmartinsg/)
