@@ -15,8 +15,4 @@ stats](https://github-readme-stats.vercel.app/api?username=jrmartinsg&show_icons
         alt="javascript">
 </div><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrmartinsg&layout=demo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<h4>
-    " É a insatisfação que nos move " - Mario Sergio Cortella.
-</h4>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrmartinsg&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
